@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saabdulle
 - 👀 I’m interested in Sofware engineering.
-- 🌱 I’m currently learning fundamentals of codind.
+- 🌱 I’m currently learning fundamentals of coding.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
