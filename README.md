@@ -9,7 +9,7 @@ I am a passionate Full Stack Developer and Cloud Engineer with a strong backgrou
 - **Backend:** Node.js, Express, Python, Flask
 - **Testing:** pytest, vitest, Jest
 - **Cloud & DevOps:** AWS, Terraform, Docker, Kubernetes
-- **Database:** SQL
+- **Database:** SQL & NoSQL
 - **CI/CD:** CircleCI
 - **GitOps:** ArgoCD
 
