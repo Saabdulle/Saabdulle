@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate Full Stack Developer and Cloud Engineer with a strong background in application building and deploying. I take pride in building scalable and robust applications using a variety of cutting-edge technologies. My expertise spans across the MERN stack, Javascript, Python, Flask, Terraform, AWS, Docker, Kubernetes, SQL, CI/CD with tools like CircleCI, and ArgoCD. I'm also well-versed in monitoring and visualization technologies, specifically Prometheus and Grafana.
+I am a passionate Full Stack Developer and Cloud Engineer with a strong background in application building and deploying. I take pride in building scalable and robust applications using a variety of cutting-edge technologies. My expertise spans across the MERN stack, Javascript, Python, Flask, Terraform, AWS, Docker, Kubernetes, SQL, NoSQL, CI/CD with tools like CircleCI, and ArgoCD. I'm also well-versed in monitoring and visualization technologies, specifically Prometheus and Grafana.
 ## Technologies & Tools
 
 - **Full Stack:** MERN (MongoDB, Express.js, React, Node.js)
