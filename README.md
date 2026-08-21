@@ -18,7 +18,7 @@ I am a passionate Full Stack Developer and Cloud Engineer with a strong backgrou
 
 ◘ LinkedIn: [Saeed Abdulle](https://www.linkedin.com/in/saeed-abdulle-7b765b232/)
 
-◘ Email: saeedabdulle@hotmail.com
+◘ Email: saeedabdulle@outlook.com
 
 
 Feel free to reach out! I'm always open to interesting projects and collaborations.
