@@ -1,4 +1,4 @@
-# Hello, I'm Saeed Abdulle👋
+# Hello, I'm Saeed👋
 
 ## About Me
 
